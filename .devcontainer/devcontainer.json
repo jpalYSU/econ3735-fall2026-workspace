@@ -1,0 +1,13 @@
+{
+  "name": "ECON 3735 AI in Business",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": { "version": "lts" }
+  },
+  "postCreateCommand": "npm install -g @anthropic-ai/claude-code && pip install --user pandas openpyxl",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python", "ms-toolsai.datawrangler"]
+    }
+  }
+}
