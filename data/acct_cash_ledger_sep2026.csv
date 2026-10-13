@@ -1,0 +1,40 @@
+date,ref,description,debit,credit
+2026-09-01,OPEN,Opening balance,48210.55,
+2026-09-01,CHK 10431,Check: Ohio Edison,,1081.90
+2026-09-02,CHK 10432,Check: Honey Hollow Apiary,,4852.89
+2026-09-02,DEP-0902,Deposit: Campus Market YSU,2712.33,
+2026-09-03,DEP-0903,Deposit: Rulli Bros,2615.38,
+2026-09-04,CHK 10433,Check: Valley Freight,,3983.75
+2026-09-05,CHK 10434,Check: Midwest Grain Co-op,,3588.79
+2026-09-05,CHK 10434,Check: Midwest Grain Co-op,,3588.79
+2026-09-05,DEP-0905,Deposit: Rulli Bros,5384.63,
+2026-09-05,DEP-0905,Deposit: Rulli Bros,5799.16,
+2026-09-06,CHK 10435,Check: Ohio Edison,,4237.69
+2026-09-07,DEP-0907,Deposit: Shop 'n Save Hermitage,7955.17,
+2026-09-09,CHK 10436,Check: Mahoning Payroll Svc,,5879.24
+2026-09-11,CHK 10451,Check: Valley Freight,,1284.00
+2026-09-12,CHK 10437,Check: Ohio Edison,,3825.34
+2026-09-12,DEP-0912,Deposit: Rulli Bros,1949.33,
+2026-09-12,DEP-0912,Deposit: Campus Market YSU,7735.58,
+2026-09-13,DEP-0913,Deposit: Giant Eagle #4412,7946.19,
+2026-09-15,CHK 10438,Check: Valley Freight,,2756.70
+2026-09-15,CHK 10439,Check: Midwest Grain Co-op,,3572.67
+2026-09-17,CHK 10440,Check: Valley Freight,,6240.62
+2026-09-17,DEP-0917,Deposit: Giant Eagle #4412,5911.06,
+2026-09-17,DEP-0917,Deposit: Shop 'n Save Hermitage,2164.50,
+2026-09-20,CHK 10441,Check: Honey Hollow Apiary,,4687.08
+2026-09-21,DEP-0921,Deposit: Campus Market YSU,7681.94,
+2026-09-22,CHK 10442,Check: PackRite Cartons,,1256.72
+2026-09-23,CHK 10443,Check: Honey Hollow Apiary,,5549.65
+2026-09-23,CHK 10444,Check: Honey Hollow Apiary,,2043.24
+2026-09-23,DEP-0923,Deposit: Walmart DC 6021,5944.26,
+2026-09-24,DEP-0924,Deposit: Walmart DC 6021,8595.68,
+2026-09-26,CHK 10445,Check: Mahoning Payroll Svc,,1599.59
+2026-09-27,DEP-0927,Deposit: Giant Eagle #4412,8290.37,
+2026-09-28,CHK 10446,Check: Ohio Edison,,3623.21
+2026-09-28,CHK 10447,Check: Honey Hollow Apiary,,411.09
+2026-09-30,CHK 10448,Check: Ohio Edison,,1860.49
+2026-09-30,CHK 10449,Check: Midwest Grain Co-op,,1919.98
+2026-09-30,CHK 10450,Check: Ohio Edison,,2199.05
+2026-09-30,DEP-0930,Deposit: Giant Eagle #4412,6125.40,
+2026-09-30,DEP-0930,Deposit: Campus Market YSU,2210.00,
