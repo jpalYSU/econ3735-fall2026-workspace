@@ -1,0 +1,365 @@
+week_start,store,region,product,units,revenue,promo
+2026-07-06,Boardman,Ohio East,Cosmic Crunch Original,246,1104.54,N
+2026-07-06,Boardman,Ohio East,Cosmic Crunch Choco Nebula,114,568.86,N
+2026-07-06,Boardman,Ohio East,Cosmic Crunch Lunar Honey,74,354.46,N
+2026-07-06,Boardman,Ohio East,Cosmic Crunch Protein Orbit,36,215.64,N
+2026-07-06,Austintown,Ohio East,Cosmic Crunch Original,128,574.72,N
+2026-07-06,Austintown,Ohio East,Cosmic Crunch Choco Nebula,90,449.1,N
+2026-07-06,Austintown,Ohio East,Cosmic Crunch Lunar Honey,65,311.35,N
+2026-07-06,Austintown,Ohio East,Cosmic Crunch Protein Orbit,38,227.62,N
+2026-07-06,Canfield,Ohio East,Cosmic Crunch Original,61,273.89,N
+2026-07-06,Canfield,Ohio East,Cosmic Crunch Choco Nebula,94,469.06,N
+2026-07-06,Canfield,Ohio East,Cosmic Crunch Lunar Honey,55,263.45,N
+2026-07-06,Canfield,Ohio East,Cosmic Crunch Protein Orbit,74,443.26,N
+2026-07-06,Hermitage,PA West,Cosmic Crunch Original,122,547.78,N
+2026-07-06,Hermitage,PA West,Cosmic Crunch Choco Nebula,86,429.14,N
+2026-07-06,Hermitage,PA West,Cosmic Crunch Lunar Honey,70,335.3,N
+2026-07-06,Hermitage,PA West,Cosmic Crunch Protein Orbit,42,251.58,N
+2026-07-06,Sharon,PA West,Cosmic Crunch Original,79,354.71,N
+2026-07-06,Sharon,PA West,Cosmic Crunch Choco Nebula,80,399.2,N
+2026-07-06,Sharon,PA West,Cosmic Crunch Lunar Honey,51,244.29,N
+2026-07-06,Sharon,PA West,Cosmic Crunch Protein Orbit,58,347.42,N
+2026-07-06,Warren,Ohio North,Cosmic Crunch Original,112,502.88,N
+2026-07-06,Warren,Ohio North,Cosmic Crunch Choco Nebula,85,424.15,N
+2026-07-06,Warren,Ohio North,Cosmic Crunch Lunar Honey,78,373.62,N
+2026-07-06,Warren,Ohio North,Cosmic Crunch Protein Orbit,54,323.46,N
+2026-07-06,Niles,Ohio North,Cosmic Crunch Original,41,184.09,N
+2026-07-06,Niles,Ohio North,Cosmic Crunch Choco Nebula,54,269.46,N
+2026-07-06,Niles,Ohio North,Cosmic Crunch Lunar Honey,45,215.55,N
+2026-07-06,Niles,Ohio North,Cosmic Crunch Protein Orbit,64,383.36,N
+2026-07-13,Boardman,Ohio East,Cosmic Crunch Original,225,1010.25,N
+2026-07-13,Boardman,Ohio East,Cosmic Crunch Choco Nebula,92,459.08,N
+2026-07-13,Boardman,Ohio East,Cosmic Crunch Lunar Honey,83,397.57,N
+2026-07-13,Boardman,Ohio East,Cosmic Crunch Protein Orbit,33,197.67,N
+2026-07-13,Austintown,Ohio East,Cosmic Crunch Original,108,484.92,N
+2026-07-13,Austintown,Ohio East,Cosmic Crunch Choco Nebula,98,489.02,N
+2026-07-13,Austintown,Ohio East,Cosmic Crunch Lunar Honey,65,311.35,N
+2026-07-13,Austintown,Ohio East,Cosmic Crunch Protein Orbit,42,251.58,N
+2026-07-13,Canfield,Ohio East,Cosmic Crunch Original,86,386.14,N
+2026-07-13,Canfield,Ohio East,Cosmic Crunch Choco Nebula,76,379.24,N
+2026-07-13,Canfield,Ohio East,Cosmic Crunch Lunar Honey,49,234.71,N
+2026-07-13,Canfield,Ohio East,Cosmic Crunch Protein Orbit,87,521.13,N
+2026-07-13,Hermitage,PA West,Cosmic Crunch Original,93,417.57,N
+2026-07-13,Hermitage,PA West,Cosmic Crunch Choco Nebula,68,339.32,N
+2026-07-13,Hermitage,PA West,Cosmic Crunch Lunar Honey,71,340.09,N
+2026-07-13,Hermitage,PA West,Cosmic Crunch Protein Orbit,42,251.58,N
+2026-07-13,Sharon,PA West,Cosmic Crunch Original,71,318.79,N
+2026-07-13,Sharon,PA West,Cosmic Crunch Choco Nebula,67,334.33,N
+2026-07-13,Sharon,PA West,Cosmic Crunch Lunar Honey,44,210.76,N
+2026-07-13,Sharon,PA West,Cosmic Crunch Protein Orbit,58,347.42,N
+2026-07-13,Warren,Ohio North,Cosmic Crunch Original,138,619.62,N
+2026-07-13,Warren,Ohio North,Cosmic Crunch Choco Nebula,93,464.07,N
+2026-07-13,Warren,Ohio North,Cosmic Crunch Lunar Honey,77,368.83,N
+2026-07-13,Warren,Ohio North,Cosmic Crunch Protein Orbit,39,233.61,N
+2026-07-13,Niles,Ohio North,Cosmic Crunch Original,43,193.07,N
+2026-07-13,Niles,Ohio North,Cosmic Crunch Choco Nebula,63,314.37,N
+2026-07-13,Niles,Ohio North,Cosmic Crunch Lunar Honey,41,196.39,N
+2026-07-13,Niles,Ohio North,Cosmic Crunch Protein Orbit,87,521.13,N
+2026-07-20,Boardman,Ohio East,Cosmic Crunch Original,222,996.78,N
+2026-07-20,Boardman,Ohio East,Cosmic Crunch Choco Nebula,105,523.95,N
+2026-07-20,Boardman,Ohio East,Cosmic Crunch Lunar Honey,67,320.93,N
+2026-07-20,Boardman,Ohio East,Cosmic Crunch Protein Orbit,36,215.64,N
+2026-07-20,Austintown,Ohio East,Cosmic Crunch Original,142,637.58,N
+2026-07-20,Austintown,Ohio East,Cosmic Crunch Choco Nebula,79,394.21,N
+2026-07-20,Austintown,Ohio East,Cosmic Crunch Lunar Honey,63,301.77,N
+2026-07-20,Austintown,Ohio East,Cosmic Crunch Protein Orbit,61,365.39,N
+2026-07-20,Canfield,Ohio East,Cosmic Crunch Original,91,408.59,N
+2026-07-20,Canfield,Ohio East,Cosmic Crunch Choco Nebula,75,374.25,N
+2026-07-20,Canfield,Ohio East,Cosmic Crunch Lunar Honey,52,249.08,N
+2026-07-20,Canfield,Ohio East,Cosmic Crunch Protein Orbit,70,419.3,N
+2026-07-20,Hermitage,PA West,Cosmic Crunch Original,107,480.43,N
+2026-07-20,Hermitage,PA West,Cosmic Crunch Choco Nebula,90,449.1,N
+2026-07-20,Hermitage,PA West,Cosmic Crunch Lunar Honey,72,344.88,N
+2026-07-20,Hermitage,PA West,Cosmic Crunch Protein Orbit,47,281.53,N
+2026-07-20,Sharon,PA West,Cosmic Crunch Original,81,363.69,N
+2026-07-20,Sharon,PA West,Cosmic Crunch Choco Nebula,55,274.45,N
+2026-07-20,Sharon,PA West,Cosmic Crunch Lunar Honey,48,229.92,N
+2026-07-20,Sharon,PA West,Cosmic Crunch Protein Orbit,55,329.45,N
+2026-07-20,Warren,Ohio North,Cosmic Crunch Original,120,538.8,N
+2026-07-20,Warren,Ohio North,Cosmic Crunch Choco Nebula,117,583.83,N
+2026-07-20,Warren,Ohio North,Cosmic Crunch Lunar Honey,59,282.61,N
+2026-07-20,Warren,Ohio North,Cosmic Crunch Protein Orbit,47,281.53,N
+2026-07-20,Niles,Ohio North,Cosmic Crunch Original,40,179.6,N
+2026-07-20,Niles,Ohio North,Cosmic Crunch Choco Nebula,66,329.34,N
+2026-07-20,Niles,Ohio North,Cosmic Crunch Lunar Honey,38,182.02,N
+2026-07-20,Niles,Ohio North,Cosmic Crunch Protein Orbit,93,557.07,N
+2026-07-27,Boardman,Ohio East,Cosmic Crunch Original,177,794.73,N
+2026-07-27,Boardman,Ohio East,Cosmic Crunch Choco Nebula,114,568.86,N
+2026-07-27,Boardman,Ohio East,Cosmic Crunch Lunar Honey,121,492.65,Y
+2026-07-27,Boardman,Ohio East,Cosmic Crunch Protein Orbit,29,173.71,N
+2026-07-27,Austintown,Ohio East,Cosmic Crunch Original,126,565.74,N
+2026-07-27,Austintown,Ohio East,Cosmic Crunch Choco Nebula,91,454.09,N
+2026-07-27,Austintown,Ohio East,Cosmic Crunch Lunar Honey,99,403.08,Y
+2026-07-27,Austintown,Ohio East,Cosmic Crunch Protein Orbit,48,287.52,N
+2026-07-27,Canfield,Ohio East,Cosmic Crunch Original,86,386.14,N
+2026-07-27,Canfield,Ohio East,Cosmic Crunch Choco Nebula,66,329.34,N
+2026-07-27,Canfield,Ohio East,Cosmic Crunch Lunar Honey,94,382.72,Y
+2026-07-27,Canfield,Ohio East,Cosmic Crunch Protein Orbit,90,539.1,N
+2026-07-27,Hermitage,PA West,Cosmic Crunch Original,111,498.39,N
+2026-07-27,Hermitage,PA West,Cosmic Crunch Choco Nebula,68,339.32,N
+2026-07-27,Hermitage,PA West,Cosmic Crunch Lunar Honey,105,427.51,Y
+2026-07-27,Hermitage,PA West,Cosmic Crunch Protein Orbit,37,221.63,N
+2026-07-27,Sharon,PA West,Cosmic Crunch Original,89,399.61,N
+2026-07-27,Sharon,PA West,Cosmic Crunch Choco Nebula,62,309.38,N
+2026-07-27,Sharon,PA West,Cosmic Crunch Lunar Honey,70,285.0,Y
+2026-07-27,Sharon,PA West,Cosmic Crunch Protein Orbit,54,323.46,N
+2026-07-27,Warren,Ohio North,Cosmic Crunch Original,162,727.38,N
+2026-07-27,Warren,Ohio North,Cosmic Crunch Choco Nebula,110,548.9,N
+2026-07-27,Warren,Ohio North,Cosmic Crunch Lunar Honey,140,570.01,Y
+2026-07-27,Warren,Ohio North,Cosmic Crunch Protein Orbit,60,359.4,N
+2026-07-27,Niles,Ohio North,Cosmic Crunch Original,45,202.05,N
+2026-07-27,Niles,Ohio North,Cosmic Crunch Choco Nebula,63,314.37,N
+2026-07-27,Niles,Ohio North,Cosmic Crunch Lunar Honey,64,260.58,Y
+2026-07-27,Niles,Ohio North,Cosmic Crunch Protein Orbit,71,425.29,N
+2026-08-03,Boardman,Ohio East,Cosmic Crunch Original,158,709.42,N
+2026-08-03,Boardman,Ohio East,Cosmic Crunch Choco Nebula,99,494.01,N
+2026-08-03,Boardman,Ohio East,Cosmic Crunch Lunar Honey,164,667.73,Y
+2026-08-03,Boardman,Ohio East,Cosmic Crunch Protein Orbit,41,245.59,N
+2026-08-03,Austintown,Ohio East,Cosmic Crunch Original,118,529.82,N
+2026-08-03,Austintown,Ohio East,Cosmic Crunch Choco Nebula,84,419.16,N
+2026-08-03,Austintown,Ohio East,Cosmic Crunch Lunar Honey,92,374.58,Y
+2026-08-03,Austintown,Ohio East,Cosmic Crunch Protein Orbit,52,311.48,N
+2026-08-03,Canfield,Ohio East,Cosmic Crunch Original,92,413.08,N
+2026-08-03,Canfield,Ohio East,Cosmic Crunch Choco Nebula,69,344.31,N
+2026-08-03,Canfield,Ohio East,Cosmic Crunch Lunar Honey,94,382.72,Y
+2026-08-03,Canfield,Ohio East,Cosmic Crunch Protein Orbit,99,593.01,N
+2026-08-03,Hermitage,PA West,Cosmic Crunch Original,88,395.12,N
+2026-08-03,Hermitage,PA West,Cosmic Crunch Choco Nebula,71,354.29,N
+2026-08-03,Hermitage,PA West,Cosmic Crunch Lunar Honey,99,403.08,Y
+2026-08-03,Hermitage,PA West,Cosmic Crunch Protein Orbit,51,305.49,N
+2026-08-03,Sharon,PA West,Cosmic Crunch Original,91,408.59,N
+2026-08-03,Sharon,PA West,Cosmic Crunch Choco Nebula,61,304.39,N
+2026-08-03,Sharon,PA West,Cosmic Crunch Lunar Honey,78,317.58,Y
+2026-08-03,Sharon,PA West,Cosmic Crunch Protein Orbit,73,437.27,N
+2026-08-03,Warren,Ohio North,Cosmic Crunch Original,139,624.11,N
+2026-08-03,Warren,Ohio North,Cosmic Crunch Choco Nebula,97,484.03,N
+2026-08-03,Warren,Ohio North,Cosmic Crunch Lunar Honey,121,492.65,Y
+2026-08-03,Warren,Ohio North,Cosmic Crunch Protein Orbit,40,239.6,N
+2026-08-03,Niles,Ohio North,Cosmic Crunch Original,39,175.11,N
+2026-08-03,Niles,Ohio North,Cosmic Crunch Choco Nebula,49,244.51,N
+2026-08-03,Niles,Ohio North,Cosmic Crunch Lunar Honey,56,228.0,Y
+2026-08-03,Niles,Ohio North,Cosmic Crunch Protein Orbit,97,581.03,N
+2026-08-10,Boardman,Ohio East,Cosmic Crunch Original,196,880.04,N
+2026-08-10,Boardman,Ohio East,Cosmic Crunch Choco Nebula,100,499.0,N
+2026-08-10,Boardman,Ohio East,Cosmic Crunch Lunar Honey,84,402.36,N
+2026-08-10,Boardman,Ohio East,Cosmic Crunch Protein Orbit,40,239.6,N
+2026-08-10,Austintown,Ohio East,Cosmic Crunch Original,124,556.76,N
+2026-08-10,Austintown,Ohio East,Cosmic Crunch Choco Nebula,97,484.03,N
+2026-08-10,Austintown,Ohio East,Cosmic Crunch Lunar Honey,81,387.99,N
+2026-08-10,Austintown,Ohio East,Cosmic Crunch Protein Orbit,53,317.47,N
+2026-08-10,Canfield,Ohio East,Cosmic Crunch Original,70,314.3,N
+2026-08-10,Canfield,Ohio East,Cosmic Crunch Choco Nebula,66,329.34,N
+2026-08-10,Canfield,Ohio East,Cosmic Crunch Lunar Honey,66,316.14,N
+2026-08-10,Canfield,Ohio East,Cosmic Crunch Protein Orbit,92,551.08,N
+2026-08-10,Hermitage,PA West,Cosmic Crunch Original,99,444.51,N
+2026-08-10,Hermitage,PA West,Cosmic Crunch Choco Nebula,104,518.96,N
+2026-08-10,Hermitage,PA West,Cosmic Crunch Lunar Honey,65,311.35,N
+2026-08-10,Hermitage,PA West,Cosmic Crunch Protein Orbit,53,317.47,N
+2026-08-10,Sharon,PA West,Cosmic Crunch Original,84,377.16,N
+2026-08-10,Sharon,PA West,Cosmic Crunch Choco Nebula,65,324.35,N
+2026-08-10,Sharon,PA West,Cosmic Crunch Lunar Honey,46,220.34,N
+2026-08-10,Sharon,PA West,Cosmic Crunch Protein Orbit,67,401.33,N
+2026-08-10,Warren,Ohio North,Cosmic Crunch Original,164,736.36,N
+2026-08-10,Warren,Ohio North,Cosmic Crunch Choco Nebula,134,668.66,N
+2026-08-10,Warren,Ohio North,Cosmic Crunch Lunar Honey,79,378.41,N
+2026-08-10,Warren,Ohio North,Cosmic Crunch Protein Orbit,64,383.36,N
+2026-08-10,Niles,Ohio North,Cosmic Crunch Original,39,175.11,N
+2026-08-10,Niles,Ohio North,Cosmic Crunch Choco Nebula,47,234.53,N
+2026-08-10,Niles,Ohio North,Cosmic Crunch Lunar Honey,44,210.76,N
+2026-08-10,Niles,Ohio North,Cosmic Crunch Protein Orbit,109,652.91,N
+2026-08-17,Boardman,Ohio East,Cosmic Crunch Original,168,754.32,N
+2026-08-17,Boardman,Ohio East,Cosmic Crunch Choco Nebula,98,489.02,N
+2026-08-17,Boardman,Ohio East,Cosmic Crunch Lunar Honey,90,431.1,N
+2026-08-17,Boardman,Ohio East,Cosmic Crunch Protein Orbit,38,227.62,N
+2026-08-17,Austintown,Ohio East,Cosmic Crunch Original,107,480.43,N
+2026-08-17,Austintown,Ohio East,Cosmic Crunch Choco Nebula,120,598.8,N
+2026-08-17,Austintown,Ohio East,Cosmic Crunch Lunar Honey,84,402.36,N
+2026-08-17,Austintown,Ohio East,Cosmic Crunch Protein Orbit,59,353.41,N
+2026-08-17,Canfield,Ohio East,Cosmic Crunch Original,80,359.2,N
+2026-08-17,Canfield,Ohio East,Cosmic Crunch Choco Nebula,81,404.19,N
+2026-08-17,Canfield,Ohio East,Cosmic Crunch Lunar Honey,52,249.08,N
+2026-08-17,Canfield,Ohio East,Cosmic Crunch Protein Orbit,94,563.06,N
+2026-08-17,Hermitage,PA West,Cosmic Crunch Original,102,457.98,N
+2026-08-17,Hermitage,PA West,Cosmic Crunch Choco Nebula,85,424.15,N
+2026-08-17,Hermitage,PA West,Cosmic Crunch Lunar Honey,69,330.51,N
+2026-08-17,Hermitage,PA West,Cosmic Crunch Protein Orbit,44,263.56,N
+2026-08-17,Sharon,PA West,Cosmic Crunch Original,92,413.08,N
+2026-08-17,Sharon,PA West,Cosmic Crunch Choco Nebula,26,129.74,N
+2026-08-17,Sharon,PA West,Cosmic Crunch Lunar Honey,50,239.5,N
+2026-08-17,Sharon,PA West,Cosmic Crunch Protein Orbit,63,377.37,N
+2026-08-17,Warren,Ohio North,Cosmic Crunch Original,166,745.34,N
+2026-08-17,Warren,Ohio North,Cosmic Crunch Choco Nebula,115,573.85,N
+2026-08-17,Warren,Ohio North,Cosmic Crunch Lunar Honey,78,373.62,N
+2026-08-17,Warren,Ohio North,Cosmic Crunch Protein Orbit,56,335.44,N
+2026-08-17,Niles,Ohio North,Cosmic Crunch Original,45,202.05,N
+2026-08-17,Niles,Ohio North,Cosmic Crunch Choco Nebula,47,234.53,N
+2026-08-17,Niles,Ohio North,Cosmic Crunch Lunar Honey,47,225.13,N
+2026-08-17,Niles,Ohio North,Cosmic Crunch Protein Orbit,109,652.91,N
+2026-08-24,Boardman,Ohio East,Cosmic Crunch Original,193,866.57,N
+2026-08-24,Boardman,Ohio East,Cosmic Crunch Choco Nebula,119,593.81,N
+2026-08-24,Boardman,Ohio East,Cosmic Crunch Lunar Honey,80,383.2,N
+2026-08-24,Boardman,Ohio East,Cosmic Crunch Protein Orbit,38,227.62,N
+2026-08-24,Austintown,Ohio East,Cosmic Crunch Original,100,449.0,N
+2026-08-24,Austintown,Ohio East,Cosmic Crunch Choco Nebula,94,469.06,N
+2026-08-24,Austintown,Ohio East,Cosmic Crunch Lunar Honey,60,287.4,N
+2026-08-24,Austintown,Ohio East,Cosmic Crunch Protein Orbit,55,329.45,N
+2026-08-24,Canfield,Ohio East,Cosmic Crunch Original,82,368.18,N
+2026-08-24,Canfield,Ohio East,Cosmic Crunch Choco Nebula,68,339.32,N
+2026-08-24,Canfield,Ohio East,Cosmic Crunch Lunar Honey,53,253.87,N
+2026-08-24,Canfield,Ohio East,Cosmic Crunch Protein Orbit,103,616.97,N
+2026-08-24,Hermitage,PA West,Cosmic Crunch Original,106,475.94,N
+2026-08-24,Hermitage,PA West,Cosmic Crunch Choco Nebula,89,444.11,N
+2026-08-24,Hermitage,PA West,Cosmic Crunch Lunar Honey,62,296.98,N
+2026-08-24,Hermitage,PA West,Cosmic Crunch Protein Orbit,55,329.45,N
+2026-08-24,Sharon,PA West,Cosmic Crunch Original,111,498.39,N
+2026-08-24,Sharon,PA West,Cosmic Crunch Choco Nebula,18,89.82,N
+2026-08-24,Sharon,PA West,Cosmic Crunch Lunar Honey,51,244.29,N
+2026-08-24,Sharon,PA West,Cosmic Crunch Protein Orbit,71,425.29,N
+2026-08-24,Warren,Ohio North,Cosmic Crunch Original,146,655.54,N
+2026-08-24,Warren,Ohio North,Cosmic Crunch Choco Nebula,102,508.98,N
+2026-08-24,Warren,Ohio North,Cosmic Crunch Lunar Honey,80,383.2,N
+2026-08-24,Warren,Ohio North,Cosmic Crunch Protein Orbit,59,353.41,N
+2026-08-24,Niles,Ohio North,Cosmic Crunch Original,39,175.11,N
+2026-08-24,Niles,Ohio North,Cosmic Crunch Choco Nebula,59,294.41,N
+2026-08-24,Niles,Ohio North,Cosmic Crunch Lunar Honey,44,210.76,N
+2026-08-24,Niles,Ohio North,Cosmic Crunch Protein Orbit,101,604.99,N
+2026-08-31,Boardman,Ohio East,Cosmic Crunch Original,224,1005.76,N
+2026-08-31,Boardman,Ohio East,Cosmic Crunch Choco Nebula,101,503.99,N
+2026-08-31,Boardman,Ohio East,Cosmic Crunch Lunar Honey,89,426.31,N
+2026-08-31,Boardman,Ohio East,Cosmic Crunch Protein Orbit,41,245.59,N
+2026-08-31,Austintown,Ohio East,Cosmic Crunch Original,107,480.43,N
+2026-08-31,Austintown,Ohio East,Cosmic Crunch Choco Nebula,106,528.94,N
+2026-08-31,Austintown,Ohio East,Cosmic Crunch Lunar Honey,68,325.72,N
+2026-08-31,Austintown,Ohio East,Cosmic Crunch Protein Orbit,41,245.59,N
+2026-08-31,Canfield,Ohio East,Cosmic Crunch Original,56,251.44,N
+2026-08-31,Canfield,Ohio East,Cosmic Crunch Choco Nebula,82,409.18,N
+2026-08-31,Canfield,Ohio East,Cosmic Crunch Lunar Honey,65,311.35,N
+2026-08-31,Canfield,Ohio East,Cosmic Crunch Protein Orbit,94,563.06,N
+2026-08-31,Hermitage,PA West,Cosmic Crunch Original,114,511.86,N
+2026-08-31,Hermitage,PA West,Cosmic Crunch Choco Nebula,90,449.1,N
+2026-08-31,Hermitage,PA West,Cosmic Crunch Lunar Honey,65,311.35,N
+2026-08-31,Hermitage,PA West,Cosmic Crunch Protein Orbit,58,347.42,N
+2026-08-31,Sharon,PA West,Cosmic Crunch Original,82,368.18,N
+2026-08-31,Sharon,PA West,Cosmic Crunch Choco Nebula,30,149.7,N
+2026-08-31,Sharon,PA West,Cosmic Crunch Lunar Honey,52,249.08,N
+2026-08-31,Sharon,PA West,Cosmic Crunch Protein Orbit,78,467.22,N
+2026-08-31,Warren,Ohio North,Cosmic Crunch Original,168,754.32,N
+2026-08-31,Warren,Ohio North,Cosmic Crunch Choco Nebula,99,494.01,N
+2026-08-31,Warren,Ohio North,Cosmic Crunch Lunar Honey,85,407.15,N
+2026-08-31,Warren,Ohio North,Cosmic Crunch Protein Orbit,65,389.35,N
+2026-08-31,Niles,Ohio North,Cosmic Crunch Original,42,188.58,N
+2026-08-31,Niles,Ohio North,Cosmic Crunch Choco Nebula,66,329.34,N
+2026-08-31,Niles,Ohio North,Cosmic Crunch Lunar Honey,45,215.55,N
+2026-08-31,Niles,Ohio North,Cosmic Crunch Protein Orbit,87,521.13,N
+2026-09-07,Boardman,Ohio East,Cosmic Crunch Original,254,1140.46,N
+2026-09-07,Boardman,Ohio East,Cosmic Crunch Choco Nebula,114,568.86,N
+2026-09-07,Boardman,Ohio East,Cosmic Crunch Lunar Honey,81,387.99,N
+2026-09-07,Boardman,Ohio East,Cosmic Crunch Protein Orbit,44,263.56,N
+2026-09-07,Austintown,Ohio East,Cosmic Crunch Original,107,480.43,N
+2026-09-07,Austintown,Ohio East,Cosmic Crunch Choco Nebula,103,513.97,N
+2026-09-07,Austintown,Ohio East,Cosmic Crunch Lunar Honey,66,316.14,N
+2026-09-07,Austintown,Ohio East,Cosmic Crunch Protein Orbit,59,353.41,N
+2026-09-07,Canfield,Ohio East,Cosmic Crunch Original,69,309.81,N
+2026-09-07,Canfield,Ohio East,Cosmic Crunch Choco Nebula,91,454.09,N
+2026-09-07,Canfield,Ohio East,Cosmic Crunch Lunar Honey,62,296.98,N
+2026-09-07,Canfield,Ohio East,Cosmic Crunch Protein Orbit,106,634.94,N
+2026-09-07,Hermitage,PA West,Cosmic Crunch Original,102,457.98,N
+2026-09-07,Hermitage,PA West,Cosmic Crunch Choco Nebula,81,404.19,N
+2026-09-07,Hermitage,PA West,Cosmic Crunch Lunar Honey,71,340.09,N
+2026-09-07,Hermitage,PA West,Cosmic Crunch Protein Orbit,51,305.49,N
+2026-09-07,Sharon,PA West,Cosmic Crunch Original,54,242.46,N
+2026-09-07,Sharon,PA West,Cosmic Crunch Choco Nebula,29,144.71,N
+2026-09-07,Sharon,PA West,Cosmic Crunch Lunar Honey,49,234.71,N
+2026-09-07,Sharon,PA West,Cosmic Crunch Protein Orbit,82,491.18,N
+2026-09-07,Warren,Ohio North,Cosmic Crunch Original,161,722.89,N
+2026-09-07,Warren,Ohio North,Cosmic Crunch Choco Nebula,98,489.02,N
+2026-09-07,Warren,Ohio North,Cosmic Crunch Lunar Honey,95,455.05,N
+2026-09-07,Warren,Ohio North,Cosmic Crunch Protein Orbit,58,347.42,N
+2026-09-07,Niles,Ohio North,Cosmic Crunch Original,41,184.09,N
+2026-09-07,Niles,Ohio North,Cosmic Crunch Choco Nebula,55,274.45,N
+2026-09-07,Niles,Ohio North,Cosmic Crunch Lunar Honey,50,239.5,N
+2026-09-07,Niles,Ohio North,Cosmic Crunch Protein Orbit,99,593.01,N
+2026-09-14,Boardman,Ohio East,Cosmic Crunch Original,175,785.75,N
+2026-09-14,Boardman,Ohio East,Cosmic Crunch Choco Nebula,118,588.82,N
+2026-09-14,Boardman,Ohio East,Cosmic Crunch Lunar Honey,81,387.99,N
+2026-09-14,Boardman,Ohio East,Cosmic Crunch Protein Orbit,45,269.55,N
+2026-09-14,Austintown,Ohio East,Cosmic Crunch Original,121,543.29,N
+2026-09-14,Austintown,Ohio East,Cosmic Crunch Choco Nebula,103,513.97,N
+2026-09-14,Austintown,Ohio East,Cosmic Crunch Lunar Honey,81,387.99,N
+2026-09-14,Austintown,Ohio East,Cosmic Crunch Protein Orbit,67,401.33,N
+2026-09-14,Canfield,Ohio East,Cosmic Crunch Original,103,462.47,N
+2026-09-14,Canfield,Ohio East,Cosmic Crunch Choco Nebula,80,399.2,N
+2026-09-14,Canfield,Ohio East,Cosmic Crunch Lunar Honey,43,205.97,N
+2026-09-14,Canfield,Ohio East,Cosmic Crunch Protein Orbit,107,640.93,N
+2026-09-14,Hermitage,PA West,Cosmic Crunch Original,123,552.27,N
+2026-09-14,Hermitage,PA West,Cosmic Crunch Choco Nebula,82,409.18,N
+2026-09-14,Hermitage,PA West,Cosmic Crunch Lunar Honey,55,263.45,N
+2026-09-14,Hermitage,PA West,Cosmic Crunch Protein Orbit,56,335.44,N
+2026-09-14,Sharon,PA West,Cosmic Crunch Original,88,395.12,N
+2026-09-14,Sharon,PA West,Cosmic Crunch Choco Nebula,20,99.8,N
+2026-09-14,Sharon,PA West,Cosmic Crunch Lunar Honey,50,239.5,N
+2026-09-14,Sharon,PA West,Cosmic Crunch Protein Orbit,61,365.39,N
+2026-09-14,Warren,Ohio North,Cosmic Crunch Original,184,826.16,N
+2026-09-14,Warren,Ohio North,Cosmic Crunch Choco Nebula,99,494.01,N
+2026-09-14,Warren,Ohio North,Cosmic Crunch Lunar Honey,82,392.78,N
+2026-09-14,Warren,Ohio North,Cosmic Crunch Protein Orbit,71,425.29,N
+2026-09-14,Niles,Ohio North,Cosmic Crunch Original,51,228.99,N
+2026-09-14,Niles,Ohio North,Cosmic Crunch Choco Nebula,50,249.5,N
+2026-09-14,Niles,Ohio North,Cosmic Crunch Lunar Honey,45,215.55,N
+2026-09-14,Niles,Ohio North,Cosmic Crunch Protein Orbit,98,587.02,N
+2026-09-21,Boardman,Ohio East,Cosmic Crunch Original,234,1050.66,N
+2026-09-21,Boardman,Ohio East,Cosmic Crunch Choco Nebula,125,623.75,N
+2026-09-21,Boardman,Ohio East,Cosmic Crunch Lunar Honey,82,392.78,N
+2026-09-21,Boardman,Ohio East,Cosmic Crunch Protein Orbit,52,311.48,N
+2026-09-21,Austintown,Ohio East,Cosmic Crunch Original,79,354.71,N
+2026-09-21,Austintown,Ohio East,Cosmic Crunch Choco Nebula,113,563.87,N
+2026-09-21,Austintown,Ohio East,Cosmic Crunch Lunar Honey,79,378.41,N
+2026-09-21,Austintown,Ohio East,Cosmic Crunch Protein Orbit,58,347.42,N
+2026-09-21,Canfield,Ohio East,Cosmic Crunch Original,80,359.2,N
+2026-09-21,Canfield,Ohio East,Cosmic Crunch Choco Nebula,78,389.22,N
+2026-09-21,Canfield,Ohio East,Cosmic Crunch Lunar Honey,59,282.61,N
+2026-09-21,Canfield,Ohio East,Cosmic Crunch Protein Orbit,98,587.02,N
+2026-09-21,Hermitage,PA West,Cosmic Crunch Original,114,511.86,N
+2026-09-21,Hermitage,PA West,Cosmic Crunch Choco Nebula,73,364.27,N
+2026-09-21,Hermitage,PA West,Cosmic Crunch Lunar Honey,60,287.4,N
+2026-09-21,Hermitage,PA West,Cosmic Crunch Protein Orbit,52,311.48,N
+2026-09-21,Sharon,PA West,Cosmic Crunch Original,70,314.3,N
+2026-09-21,Sharon,PA West,Cosmic Crunch Choco Nebula,27,134.73,N
+2026-09-21,Sharon,PA West,Cosmic Crunch Lunar Honey,58,277.82,N
+2026-09-21,Sharon,PA West,Cosmic Crunch Protein Orbit,80,479.2,N
+2026-09-21,Warren,Ohio North,Cosmic Crunch Original,189,848.61,N
+2026-09-21,Warren,Ohio North,Cosmic Crunch Choco Nebula,92,459.08,N
+2026-09-21,Warren,Ohio North,Cosmic Crunch Lunar Honey,73,349.67,N
+2026-09-21,Warren,Ohio North,Cosmic Crunch Protein Orbit,62,371.38,N
+2026-09-21,Niles,Ohio North,Cosmic Crunch Original,45,202.05,N
+2026-09-21,Niles,Ohio North,Cosmic Crunch Choco Nebula,48,239.52,N
+2026-09-21,Niles,Ohio North,Cosmic Crunch Lunar Honey,46,220.34,N
+2026-09-21,Niles,Ohio North,Cosmic Crunch Protein Orbit,115,688.85,N
+2026-09-28,Boardman,Ohio East,Cosmic Crunch Original,175,785.75,N
+2026-09-28,Boardman,Ohio East,Cosmic Crunch Choco Nebula,110,548.9,N
+2026-09-28,Boardman,Ohio East,Cosmic Crunch Lunar Honey,78,373.62,N
+2026-09-28,Boardman,Ohio East,Cosmic Crunch Protein Orbit,46,275.54,N
+2026-09-28,Austintown,Ohio East,Cosmic Crunch Original,136,610.64,N
+2026-09-28,Austintown,Ohio East,Cosmic Crunch Choco Nebula,90,449.1,N
+2026-09-28,Austintown,Ohio East,Cosmic Crunch Lunar Honey,79,378.41,N
+2026-09-28,Austintown,Ohio East,Cosmic Crunch Protein Orbit,70,419.3,N
+2026-09-28,Canfield,Ohio East,Cosmic Crunch Original,75,336.75,N
+2026-09-28,Canfield,Ohio East,Cosmic Crunch Choco Nebula,74,369.26,N
+2026-09-28,Canfield,Ohio East,Cosmic Crunch Lunar Honey,54,258.66,N
+2026-09-28,Canfield,Ohio East,Cosmic Crunch Protein Orbit,103,616.97,N
+2026-09-28,Hermitage,PA West,Cosmic Crunch Original,116,520.84,N
+2026-09-28,Hermitage,PA West,Cosmic Crunch Choco Nebula,102,508.98,N
+2026-09-28,Hermitage,PA West,Cosmic Crunch Lunar Honey,73,349.67,N
+2026-09-28,Hermitage,PA West,Cosmic Crunch Protein Orbit,57,341.43,N
+2026-09-28,Sharon,PA West,Cosmic Crunch Original,67,300.83,N
+2026-09-28,Sharon,PA West,Cosmic Crunch Choco Nebula,20,99.8,N
+2026-09-28,Sharon,PA West,Cosmic Crunch Lunar Honey,46,220.34,N
+2026-09-28,Sharon,PA West,Cosmic Crunch Protein Orbit,79,473.21,N
+2026-09-28,Warren,Ohio North,Cosmic Crunch Original,145,651.05,N
+2026-09-28,Warren,Ohio North,Cosmic Crunch Choco Nebula,94,469.06,N
+2026-09-28,Warren,Ohio North,Cosmic Crunch Lunar Honey,64,306.56,N
+2026-09-28,Warren,Ohio North,Cosmic Crunch Protein Orbit,75,449.25,N
+2026-09-28,Niles,Ohio North,Cosmic Crunch Original,41,184.09,N
+2026-09-28,Niles,Ohio North,Cosmic Crunch Choco Nebula,57,284.43,N
+2026-09-28,Niles,Ohio North,Cosmic Crunch Lunar Honey,37,177.23,N
+2026-09-28,Niles,Ohio North,Cosmic Crunch Protein Orbit,127,760.73,N
