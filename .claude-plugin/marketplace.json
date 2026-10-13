@@ -1,0 +1,11 @@
+{
+  "name": "econ3735-yourlastname",
+  "owner": { "name": "Your Name" },
+  "plugins": [
+    {
+      "name": "your-plugin-name",
+      "source": "./plugins/your-plugin-name",
+      "description": "Edit in Module 4: one sentence on what your plugin does."
+    }
+  ]
+}
