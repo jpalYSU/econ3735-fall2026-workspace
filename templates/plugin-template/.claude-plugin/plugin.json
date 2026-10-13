@@ -1,0 +1,6 @@
+{
+  "name": "your-plugin-name",
+  "description": "One sentence: the business procedure this plugin carries out, for whom.",
+  "version": "0.1.0",
+  "author": { "name": "Your Name" }
+}
